@@ -185,7 +185,7 @@
 Рассказчик: Это нормально.
 
 # Original: I once knew a child who was very much like him. A child who, even for a fleeting moment, reached the apex.
-Рассказчик: Я когда-то знал дитя, очень похожее на него. Дитя, которое, даже на мгновение, достигло вершины.
+Рассказчик: Я когда-то знала дитя, очень похожее на него. Дитя, которое, даже на мгновение, достигло вершины.
 
 # Original: That child also ignored me the first time... only to lend me his ears later.
 Рассказчик: То дитя тоже игнорировало меня в первый раз... только чтобы позже прислушаться к моим словам.
@@ -206,7 +206,7 @@
 Синклер: Но я не хочу больше задерживаться здесь.
 
 # Original: But that path is such a painful one to walk. I wish that he wouldn't subject himself to such suffering.
-Рассказчик: Но этот путь так болезнен для ходьбы. Я желаю, чтобы он не подвергал себя таким страданиям.
+Рассказчик: Но идти по этому пути так больно. Я желаю, чтобы он не подвергал себя таким страданиям.
 
 # Original: The child, now freed from his shell, dangerously attempts to reach for the heavens when he has but a lone wing.
 Рассказчик: Дитя, теперь освобождённое от своей оболочки, опасно пытается достичь небес, имея лишь одно крыло.

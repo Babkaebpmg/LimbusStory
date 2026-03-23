@@ -16,7 +16,7 @@
 # Original: Then, all of a sudden, Jia Huan raises his blade... then stabs it into the center of the Tiekan Temple...
 Рассказчик: Затем, внезапно, Цзя Хуань поднимает свой клинок... и вонзает его в центр Храма Текань...
 
-# Original: ... and the sceneries that the Xianren have been peeping at begin to grow delayed, fuzzy, and warped. 
+# Original: ... and the sceneries that the Xianren have been peeping at begin to grow delayed, fuzzy, and warped.
 Рассказчик: ...и картины, за которыми подглядывали Сяньжэнь, начинают искажаться, запаздывать и расплываться.
 
 # Original: ... Hah.
@@ -80,7 +80,7 @@
 Хон Лу: Люди там... они больше не будут иметь никакого влияния на Сичунь или любых последующих Глав Семьи.
 
 # Original: So... now they have an opportunity to really bring about change to Hongyuan. If they can utilize it.
-Хон Лу: Так что... теперь у них есть возможность действительно добиться перемен в Хунюань. Если они смогут ею воспользоваться.
+Хон Лу: Так что... теперь у них есть возможность действительно добиться перемен в Хунъюане. Если они смогут ею воспользоваться.
 
 # Original: No one'll ever know what... happens in there. No one'll be able to help them if something were to happen, either.
 Измаил: Никто никогда не узнает, что... там происходит. И никто не сможет им помочь, если что-то случится.
@@ -101,7 +101,7 @@
 Цзя Сичунь: Что со мной будет, когда мы уйдём отсюда?
 
 # Original: I couldn't do anything in there but shudder with fear. Do I... even deserve to rule over Hongyuan and its families?
-Цзя Сичунь: Я ничего не могла там делать, кроме как дрожать от страха. Заслуживаю ли я... вообще править Хунюань и его семьями?
+Цзя Сичунь: Я ничего не могла там делать, кроме как дрожать от страха. Заслуживаю ли я... вообще править Хунъюанем и его семьями?
 
 # Original: Here's what I think, Xichun.
 Хон Лу: Вот что я думаю, Сичунь.
@@ -311,7 +311,7 @@
 Вэй: Столько информации передавалось тайно через Анамначервя... уйдут годы, чтобы всё это перенести на бумагу. Нам даже трудно представить, сколько времени это может занять.
 
 # Original: But you have broken one of many cycles here; I am certain that Hongyuan will become a better place to live under my ladyship's rule.
-Вэй: Но вы разорвали один из многих циклов здесь; я уверен, что Хунюань станет лучшим местом для жизни под правлением моей госпожи.
+Вэй: Но вы разорвали один из многих циклов здесь; я уверен, что Хунъюань станет лучшим местом для жизни под правлением моей госпожи.
 
 # Original: A lot of things did not go according to plan, but... in the end, Xichun did become the next Hierarch.
 Рассказчик: Многое пошло не по плану, но... в конце концов, Сичунь действительно стала следующей Главой.
@@ -362,7 +362,7 @@
 Цзы Гун: К счастью, наши мазки кисти совпали в общем направлении.
 
 # Original: A Family Hierarch who does not seek to be free from aging and death... I wonder what winds of change that will bring to Hongyuan?
-Цзы Гун: Глава Семьи, не стремящийся к освобождению от старения и смерти... Интересно, какие ветры перемен это принесёт в Хунюань?
+Цзы Гун: Глава Семьи, не стремящийся к освобождению от старения и смерти... Интересно, какие ветры перемен это принесёт в Хунъюань?
 
 # Original: It was a far more peaceful resolution than the one your guidance would have provided. "Gouge out your little brother's eye and use it to enter the temple", was it?
 Цзя Цю: Это было куда более мирное решение, чем то, которое обеспечил бы твой план. «Выколи глаз своему младшему брату и используй его, чтобы войти в храм», так ведь?
@@ -473,10 +473,10 @@
 Цзя Цю: ...Понимаю.
 
 # Original: ... Ah. My lord, I have another subject to discuss. While this is but a conjecture at the moment... evidence seems to point to Jia Yuanchun being among the treasonous forces of Hongyuan, in cahoots with the Xue and the Shi families.
-Цзы Гун: ...Ах. Мой господин, у меня есть ещё одна тема для обсуждения. Хотя это пока лишь предположение... улики, похоже, указывают на то, что Цзя Юаньчунь была среди предательских сил Хунюань, в сговоре с семьями Сюэ и Ши.
+Цзы Гун: ...Ах. Мой господин, у меня есть ещё одна тема для обсуждения. Хотя это пока лишь предположение... улики, похоже, указывают на то, что Цзя Юаньчунь была среди предательских сил Хунъюаня, в сговоре с семьями Сюэ и Ши.
 
 # Original: While this suspicion is yet to be developed beyond supposition, it seemed likely that Jia Yuanchun had aligned herself with the treasonous forces of Hongyuan.
-Цзя Цю: Хотя это подозрение ещё не вышло за рамки предположений, казалось вероятным, что Цзя Юаньчунь примкнула к предательским силам Хунюань.
+Цзя Цю: Хотя это подозрение ещё не вышло за рамки предположений, казалось вероятным, что Цзя Юаньчунь примкнула к предательским силам Хунъюаня.
 
 # Original: She made herself scarce as soon as the troubles were quelled, which could mean... yes.
 Цзя Цю: Она исчезла, как только беспорядки были подавлены, что могло означать... да.
@@ -542,7 +542,7 @@
 Цзы Гун: Кажется, вы не зря снова и снова пересказывали мне эту историю.
 
 # Original: You were trying to insinuate that he was the only one in Hongyuan who was worthy of faith...
-Цзы Гун: Вы пытались намекнуть, что он был единственным в Хунюань, кто достоин веры...
+Цзы Гун: Вы пытались намекнуть, что он был единственным в Хунъюане, кто достоин веры...
 
 # Original: ... Zigong, Zilu, let us converse in private for a moment, for I have an important task for you...
 Цзя Цю: ...Цзы Гун, Цзы Лу, давайте поговорим наедине минутку, у меня для вас важное задание...
